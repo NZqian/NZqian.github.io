@@ -1,0 +1,91 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+
+
+# About me
+<span class='anchor' id='about-me'></span>
+
+Ziqian Ning is a master student in the Audio, Speech and Language Processing Laboratory at Northwestern Polytechnical University ([ASLP@NWPU](http://www.npu-aslp.org/english)), Xi'an, China, supervised by Prof. [Lei Xie](http://www.nwpu-aslp.org/lxie/) . He is currently performing research at Netease Fuxi AI Lab. His research interests include voice conversion, text-to-speech and audio/music generation.
+
+
+<!-- # 📜 Research Area
+# News
+<span class='anchor' id='news'></span>
+- We released [Amphion](https://github.com/open-mmlab/Amphion), a toolkit for Audio, Music, and Speech Generation. The technical report is available [Amphion: An Open-Source Audio, Music and Speech Generation Toolkit](https://arxiv.org/abs/2312.09911). The Hugging Face of Amphion is [here](https://huggingface.co/amphion).
+- [Multi-Scale Sub-Band Constant-Q Transform Discriminator for High-Fidelity Vocoder](https://arxiv.org/pdf/2311.14957.pdf) accepted by ICASSP2024, also integrated in [Amphion](https://github.com/open-mmlab/Amphion) 
+- [SponTTS: modeling and transferring spontaneous style for TTS](https://arxiv.org/pdf/2311.07179.pdf) accepted by ICASSP2024.
+- [Leveraging Content-based Features from Multiple Acoustic Models for Singing Voice Conversion](https://arxiv.org/pdf/2310.11160.pdf) accepted by ML4Audio @ NeurIPS 2023.
+- [HiGNN-TTS: Hierarchical Prosody Modeling with Graph Neural Networks for Expressive Long-form TTS](https://arxiv.org/pdf/2309.13907.pdf)  accepted by ASRU2023.
+</table> -->
+
+
+
+<!-- # 📜 Research Area
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"> <font color="#0b5394"> Audio-Visual Speech Processing </font>: <BR>&nbsp;&nbsp; Audio-visual speech recognition; Sound Source localization</td>
+    <td style="border: none;"> <font color="#0b5394"> Video Synthesize </font>: <BR>&nbsp;&nbsp; Talking Face Generation </td>
+  </tr>
+</table> -->
+
+
+# Internships
+<span class='anchor' id='research_experience'></span>
+
+- *2022.06 - now*, Fuxi AI Lab, Netease, China.
+- *2021.07 - 2021.09*, TEG, Tencent, China.
+
+
+# Publications
+<span class='anchor' id='publication'></span>
+
+
+**Voice Conversion (VC)**
+- [Expressive-VC: Highly Expressive Voice Conversion with Attention Fusion of Bottleneck and Perturbation Features](https://ieeexplore.ieee.org/abstract/document/10096057), **Ziqian Ning**, Qicong Xie, Pengcheng Zhu, Zhichao Wang, Liumeng Xue, Jixun Yao, Lei Xie, Mengxiao Bi. **ICASSP**, 2023.
+
+- [PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts](https://arxiv.org/pdf/2309.09262.pdf), Jixun Yao, Yuguang Yang, Yi Lei, **Ziqian Ning**, Yanni Hu, Yu Pan, Jingjing Yin, Hongbin Zhou, Heng Lu, Lei Xie. **ICASSP**, 2024.
+
+- [Preserving background sound in noise-robust voice conversion via multi-task learning](https://ieeexplore.ieee.org/abstract/document/10095960), Jixun Yao, Yi Lei, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Lei Xie, Hai Li, Junhui Liu, Danming Xie. **ICASSP**, 2023.
+
+**Singing Voice Conversion (SVC)**
+
+- [VITS-Based Singing Voice Conversion Leveraging Whisper and multi-scale F0 Modeling](https://arxiv.org/pdf/2310.02802.pdf), **Ziqian Ning**, Yuepeng Jiang, Zhichao Wang, Bin Zhang, Lei Xie. **ASRU**, 2023.
+
+
+**Streaming Voice Conversion**
+
+- [DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding](https://arxiv.org/pdf/2305.12425.pdf), **Ziqian Ning**, Yuepeng Jiang, Pengcheng Zhu, Jixun Yao, Shuai Wang, Lei Xie, Mengxiao Bi. **INTERSPEECH**, 2023.
+
+- [DualVC 2: Dynamic Masked Convolution for Unified Streaming and Non-Streaming Voice Conversion](https://arxiv.org/pdf/2309.15496.pdf), Ziqian Ning, Yuepeng Jiang, Pengcheng Zhu, Shuai Wang, Jixun Yao, Lei Xie, Mengxiao Bi. **ICASSP**, 2024.
+
+
+**Speaker Anonymization**
+
+- Distinctive and Natural Speaker Anonymization via Singular Value Transformation-assisted Matrix, Jixun Yao, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Lei Xie. Submitted to TASLP (under review).
+
+
+**Text to Speech**
+- [Accent-VITS: accent transfer for end-to-end TTS](), Linhan Ma, Yongmao Zhang, Xinfa Zhu, Yi Lei, **Ziqian Ning**, Pengcheng Zhu, Lei Xie. **NCMMSC**, 2023.
+
+
+
+# Reviewer
+<span class='anchor' id='others'></span>
+- Reviewer of TASLP, ICASSP, INTERSPEECH, ASRU, ICMC, etc.
+
+

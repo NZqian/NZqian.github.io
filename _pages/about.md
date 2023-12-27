@@ -56,22 +56,22 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 
 **Voice Conversion (VC)**
-- [Expressive-VC: Highly Expressive Voice Conversion with Attention Fusion of Bottleneck and Perturbation Features](https://ieeexplore.ieee.org/abstract/document/10096057), **Ziqian Ning**, Qicong Xie, Pengcheng Zhu, Zhichao Wang, Liumeng Xue, Jixun Yao, Lei Xie, Mengxiao Bi. **ICASSP**, 2023.
+- [Expressive-VC: Highly Expressive Voice Conversion with Attention Fusion of Bottleneck and Perturbation Features](https://ieeexplore.ieee.org/abstract/document/10096057), **Ziqian Ning**, Qicong Xie, Pengcheng Zhu, Zhichao Wang, Liumeng Xue, Jixun Yao, Lei Xie, Mengxiao Bi. **ICASSP**, 2023. [Demo](https://nzqian.github.io/Expressive-VC.github.io/)
 
-- [PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts](https://arxiv.org/pdf/2309.09262.pdf), Jixun Yao, Yuguang Yang, Yi Lei, **Ziqian Ning**, Yanni Hu, Yu Pan, Jingjing Yin, Hongbin Zhou, Heng Lu, Lei Xie. **ICASSP**, 2024.
+- [PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts](https://arxiv.org/pdf/2309.09262.pdf), Jixun Yao, Yuguang Yang, Yi Lei, **Ziqian Ning**, Yanni Hu, Yu Pan, Jingjing Yin, Hongbin Zhou, Heng Lu, Lei Xie. **ICASSP**, 2024. [Demo](https://yaoxunji.github.io/prompt_vc/)
 
-- [Preserving background sound in noise-robust voice conversion via multi-task learning](https://ieeexplore.ieee.org/abstract/document/10095960), Jixun Yao, Yi Lei, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Lei Xie, Hai Li, Junhui Liu, Danming Xie. **ICASSP**, 2023.
+- [Preserving background sound in noise-robust voice conversion via multi-task learning](https://ieeexplore.ieee.org/abstract/document/10095960), Jixun Yao, Yi Lei, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Lei Xie, Hai Li, Junhui Liu, Danming Xie. **ICASSP**, 2023. [Demo](https://yaoxunji.github.io/background_sound_vc/)
 
 **Singing Voice Conversion (SVC)**
 
-- [VITS-Based Singing Voice Conversion Leveraging Whisper and multi-scale F0 Modeling](https://arxiv.org/pdf/2310.02802.pdf), **Ziqian Ning**, Yuepeng Jiang, Zhichao Wang, Bin Zhang, Lei Xie. **ASRU**, 2023.
+- [VITS-Based Singing Voice Conversion Leveraging Whisper and multi-scale F0 Modeling](https://arxiv.org/pdf/2310.02802.pdf), **Ziqian Ning**, Yuepeng Jiang, Zhichao Wang, Bin Zhang, Lei Xie. **ASRU**, 2023. [Demo](https://nzqian.github.io/SVCC2023-t23-ASLP)
 
 
 **Streaming Voice Conversion**
 
-- [DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding](https://arxiv.org/pdf/2305.12425.pdf), **Ziqian Ning**, Yuepeng Jiang, Pengcheng Zhu, Jixun Yao, Shuai Wang, Lei Xie, Mengxiao Bi. **INTERSPEECH**, 2023.
+- [DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding](https://arxiv.org/pdf/2305.12425.pdf), **Ziqian Ning**, Yuepeng Jiang, Pengcheng Zhu, Jixun Yao, Shuai Wang, Lei Xie, Mengxiao Bi. **INTERSPEECH**, 2023. [Demo](https://dualvc.github.io/)
 
-- [DualVC 2: Dynamic Masked Convolution for Unified Streaming and Non-Streaming Voice Conversion](https://arxiv.org/pdf/2309.15496.pdf), Ziqian Ning, Yuepeng Jiang, Pengcheng Zhu, Shuai Wang, Jixun Yao, Lei Xie, Mengxiao Bi. **ICASSP**, 2024.
+- [DualVC 2: Dynamic Masked Convolution for Unified Streaming and Non-Streaming Voice Conversion](https://arxiv.org/pdf/2309.15496.pdf), Ziqian Ning, Yuepeng Jiang, Pengcheng Zhu, Shuai Wang, Jixun Yao, Lei Xie, Mengxiao Bi. **ICASSP**, 2024. [Demo](https://dualvc.github.io/dualvc2/)
 
 
 **Speaker Anonymization**
@@ -80,7 +80,7 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 
 **Text to Speech**
-- [Accent-VITS: accent transfer for end-to-end TTS](), Linhan Ma, Yongmao Zhang, Xinfa Zhu, Yi Lei, **Ziqian Ning**, Pengcheng Zhu, Lei Xie. **NCMMSC**, 2023.
+- [Accent-VITS: accent transfer for end-to-end TTS](), Linhan Ma, Yongmao Zhang, Xinfa Zhu, Yi Lei, **Ziqian Ning**, Pengcheng Zhu, Lei Xie. **NCMMSC**, 2023. [Demo](https://anonymous-accentvits.github.io/AccentVITS/)
 
 
 # Project Experience

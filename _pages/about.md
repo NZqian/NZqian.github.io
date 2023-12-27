@@ -45,7 +45,7 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 
 # Internships
-<span class='anchor' id='research_experience'></span>
+<span class='anchor' id='internships'></span>
 
 - *2022.06 - now*, Fuxi AI Lab, Netease, China.
 - *2021.07 - 2021.09*, TEG, Tencent, China.
@@ -83,9 +83,18 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 - [Accent-VITS: accent transfer for end-to-end TTS](), Linhan Ma, Yongmao Zhang, Xinfa Zhu, Yi Lei, **Ziqian Ning**, Pengcheng Zhu, Lei Xie. **NCMMSC**, 2023.
 
 
+# Project Experience
+<span class='anchor' id='project-experience'></span>
 
-# Reviewer
-<span class='anchor' id='others'></span>
-- Reviewer of TASLP, ICASSP, INTERSPEECH, ASRU, ICMC, etc.
+- **Singing Voice Conversion Challenge 2023**
+  - Propose a VITS-based singing voice conversion model that leverages Whisper bottleneck features as linguistic information and uses PBTC module extracts multi-scale F0 to better capture the pitch variation. The results of the official competition measurements demonstrate that our system achieves human-level naturalness, ranking first and second in Task 1 and Task 2, respectively. [Demo](https://nzqian.github.io/SVCC2023-t23-ASLP)
+- **Online Text-to-speech synthesis system**
+  - Develop a text-to-speech system to provide high availability and scalability for online services. Models are encapsulated in separate microservices that are managed using Kubernetes. Kafka is used for inter-model messaging, and the use of message queue makes it possible to parallelize a large number of microservice replicas.
 
 
+# Patents
+<span class='anchor' id='patents'></span>
+
+- [CN115910083A](https://patents.google.com/patent/CN115910083A/en?q=(%E5%AE%81)&inventor=%E5%AD%90%E8%B0%A6&oq=%E5%AE%81%E5%AD%90%E8%B0%A6) Real-time voice conversion method, device, electronic equipment and medium.
+- [CN116013336A](https://patents.google.com/patent/CN116013336A/en?q=(%E5%AE%81)&inventor=%E5%AD%90%E8%B0%A6&oq=%E5%AE%81%E5%AD%90%E8%B0%A6) Voice conversion method, device, electronic equipment and storage medium. 
+- [CN116364099A](https://patents.google.com/patent/CN116364099A/en?q=(%E5%AE%81)&inventor=%E5%AD%90%E8%B0%A6&oq=%E5%AE%81%E5%AD%90%E8%B0%A6) Voice conversion method, device, electronic apparatus, storage medium, and program product. 

@@ -80,7 +80,7 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 
 **Text to Speech**
-- [Accent-VITS: accent transfer for end-to-end TTS](), Linhan Ma, Yongmao Zhang, Xinfa Zhu, Yi Lei, **Ziqian Ning**, Pengcheng Zhu, Lei Xie. **NCMMSC**, 2023. [Demo](https://anonymous-accentvits.github.io/AccentVITS/)
+- [Accent-VITS: accent transfer for end-to-end TTS](https://arxiv.org/pdf/2312.16850.pdf), Linhan Ma, Yongmao Zhang, Xinfa Zhu, Yi Lei, **Ziqian Ning**, Pengcheng Zhu, Lei Xie. **NCMMSC**, 2023. [Demo](https://anonymous-accentvits.github.io/AccentVITS/)
 
 
 # Project Experience

@@ -47,7 +47,8 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 # Internships
 <span class='anchor' id='internships'></span>
 
-- *2022.06 - now*, Fuxi AI Lab, Netease, China.
+- *2024.03 - now*, Azure Speech, Microsoft, China.
+- *2022.06 - 2024.03*, Fuxi AI Lab, Netease, China.
 - *2021.07 - 2021.09*, TEG, Tencent, China.
 
 

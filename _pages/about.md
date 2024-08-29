@@ -55,29 +55,34 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 # Publications
 <span class='anchor' id='publication'></span>
 
+**Singing Voice Generation**
+
+- [Drop the beat! Freestyler for Accompaniment Conditioned Rapping Voice Generation](https://arxiv.org/pdf/2408.15474), **Ziqian Ning**, Shuai Wang, Yuepeng Jiang, Jixun Yao, Lei He, Shifeng Pan, Jie Ding, Lei Xie. Submitted to AAAI2025 (under review).
+
+- [VITS-Based Singing Voice Conversion Leveraging Whisper and multi-scale F0 Modeling](https://arxiv.org/pdf/2310.02802.pdf), **Ziqian Ning**, Yuepeng Jiang, Zhichao Wang, Bin Zhang, Lei Xie. **ASRU**, 2023. [Demo](https://nzqian.github.io/SVCC2023-t23-ASLP)
 
 **Voice Conversion (VC)**
-- [Expressive-VC: Highly Expressive Voice Conversion with Attention Fusion of Bottleneck and Perturbation Features](https://ieeexplore.ieee.org/abstract/document/10096057), **Ziqian Ning**, Qicong Xie, Pengcheng Zhu, Zhichao Wang, Liumeng Xue, Jixun Yao, Lei Xie, Mengxiao Bi. **ICASSP**, 2023. [Demo](https://nzqian.github.io/Expressive-VC.github.io/)
 
 - [PromptVC: Flexible Stylistic Voice Conversion in Latent Space Driven by Natural Language Prompts](https://arxiv.org/pdf/2309.09262.pdf), Jixun Yao, Yuguang Yang, Yi Lei, **Ziqian Ning**, Yanni Hu, Yu Pan, Jingjing Yin, Hongbin Zhou, Heng Lu, Lei Xie. **ICASSP**, 2024. [Demo](https://yaoxunji.github.io/prompt_vc/)
 
+- [Expressive-VC: Highly Expressive Voice Conversion with Attention Fusion of Bottleneck and Perturbation Features](https://ieeexplore.ieee.org/abstract/document/10096057), **Ziqian Ning**, Qicong Xie, Pengcheng Zhu, Zhichao Wang, Liumeng Xue, Jixun Yao, Lei Xie, Mengxiao Bi. **ICASSP**, 2023. [Demo](https://nzqian.github.io/Expressive-VC.github.io/)
+
 - [Preserving background sound in noise-robust voice conversion via multi-task learning](https://ieeexplore.ieee.org/abstract/document/10095960), Jixun Yao, Yi Lei, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Lei Xie, Hai Li, Junhui Liu, Danming Xie. **ICASSP**, 2023. [Demo](https://yaoxunji.github.io/background_sound_vc/)
-
-**Singing Voice Conversion (SVC)**
-
-- [VITS-Based Singing Voice Conversion Leveraging Whisper and multi-scale F0 Modeling](https://arxiv.org/pdf/2310.02802.pdf), **Ziqian Ning**, Yuepeng Jiang, Zhichao Wang, Bin Zhang, Lei Xie. **ASRU**, 2023. [Demo](https://nzqian.github.io/SVCC2023-t23-ASLP)
 
 
 **Streaming Voice Conversion**
 
-- [DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding](https://arxiv.org/pdf/2305.12425.pdf), **Ziqian Ning**, Yuepeng Jiang, Pengcheng Zhu, Jixun Yao, Shuai Wang, Lei Xie, Mengxiao Bi. **INTERSPEECH**, 2023. [Demo](https://dualvc.github.io/)
+- [DualVC 3: Leveraging Language Model Generated Pseudo Context for End-to-end Low Latency Streaming Voice Conversion](https://arxiv.org/pdf/2406.07846v1), Ziqian Ning}, Shuai Wang, Pengcheng Zhu, Zhichao Wang, Jixun Yao, Lei Xie, Mengxiao Bi. **INTERSPEECH**, 2024. [Demo](https://dualvc.github.io/dualvc3/)
 
 - [DualVC 2: Dynamic Masked Convolution for Unified Streaming and Non-Streaming Voice Conversion](https://arxiv.org/pdf/2309.15496.pdf), Ziqian Ning, Yuepeng Jiang, Pengcheng Zhu, Shuai Wang, Jixun Yao, Lei Xie, Mengxiao Bi. **ICASSP**, 2024. [Demo](https://dualvc.github.io/dualvc2/)
 
+- [DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding](https://arxiv.org/pdf/2305.12425.pdf), **Ziqian Ning**, Yuepeng Jiang, Pengcheng Zhu, Jixun Yao, Shuai Wang, Lei Xie, Mengxiao Bi. **INTERSPEECH**, 2023. [Demo](https://dualvc.github.io/)
 
 **Speaker Anonymization**
 
-- Distinctive and Natural Speaker Anonymization via Singular Value Transformation-assisted Matrix, Jixun Yao, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Lei Xie. Submitted to TASLP (under review).
+- [Distinctive and Natural Speaker Anonymization via Singular Value Transformation-assisted Matrix](https://arxiv.org/abs/2405.10786), Jixun Yao, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Lei Xie. **TASLP**.
+
+- [MUSA: Multi-lingual Speaker Anonymization via Serial Disentanglement](https://arxiv.org/pdf/2407.11629), Jixun Yao, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Yuguang Yang, Yu Pan, Lei Xie. Submitted to TASLP (under review).
 
 
 **Text to Speech**

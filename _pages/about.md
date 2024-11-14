@@ -47,7 +47,7 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 # Internships
 <span class='anchor' id='internships'></span>
 
-- *2024.03 - now*, Azure Speech, Microsoft, China.
+- *2024.03 - 2024.09*, Azure Speech, Microsoft, China.
 - *2022.06 - 2024.03*, Fuxi AI Lab, Netease, China.
 - *2021.07 - 2021.09*, TEG, Tencent, China.
 
@@ -57,7 +57,7 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 **Singing Voice Generation**
 
-- [Drop the beat! Freestyler for Accompaniment Conditioned Rapping Voice Generation](https://arxiv.org/pdf/2408.15474), **Ziqian Ning**, Shuai Wang, Yuepeng Jiang, Jixun Yao, Lei He, Shifeng Pan, Jie Ding, Lei Xie. Submitted to **AAAI2025** (under review).
+- [Drop the beat! Freestyler for Accompaniment Conditioned Rapping Voice Generation](https://arxiv.org/pdf/2408.15474), **Ziqian Ning**, Shuai Wang, Yuepeng Jiang, Jixun Yao, Lei He, Shifeng Pan, Jie Ding, Lei Xie. Submitted to **AAAI2025** (under review) [Demo](https://nzqian.github.io/Freestyler/).
 
 - [VITS-Based Singing Voice Conversion Leveraging Whisper and multi-scale F0 Modeling](https://arxiv.org/pdf/2310.02802.pdf), **Ziqian Ning**, Yuepeng Jiang, Zhichao Wang, Bin Zhang, Lei Xie. **ASRU**, 2023. [Demo](https://nzqian.github.io/SVCC2023-t23-ASLP)
 
@@ -79,6 +79,8 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 - [DualVC: Dual-mode Voice Conversion using Intra-model Knowledge Distillation and Hybrid Predictive Coding](https://arxiv.org/pdf/2305.12425.pdf), **Ziqian Ning**, Yuepeng Jiang, Pengcheng Zhu, Jixun Yao, Shuai Wang, Lei Xie, Mengxiao Bi. **INTERSPEECH**, 2023. [Demo](https://dualvc.github.io/)
 
 **Speaker Anonymization**
+
+- [NPU-NTU System for Voice Privacy 2024 Challenge](https://arxiv.org/pdf/2409.04173), Jixun Yao, Nikita Kuzmin, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Dake Guo, Kong Aik Lee, Eng-Siong Chng, Lei Xie. **INTERSPEECH**, 2025.
 
 - [Distinctive and Natural Speaker Anonymization via Singular Value Transformation-assisted Matrix](https://arxiv.org/abs/2405.10786), Jixun Yao, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Lei Xie. **TASLP**.
 

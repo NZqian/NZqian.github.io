@@ -57,11 +57,15 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 **Singing Voice Generation**
 
+- [DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion](https://aslp-lab.github.io/DiffRhythm.github.io/), **Ziqian Ning**, Huakang Chen, Yuepeng Jiang, Chunbo Hao, Guobin Ma, Shuai Wang, Jixun Yao, Lei Xie. Under review.
+
 - [Drop the beat! Freestyler for Accompaniment Conditioned Rapping Voice Generation](https://arxiv.org/pdf/2408.15474), **Ziqian Ning**, Shuai Wang, Yuepeng Jiang, Jixun Yao, Lei He, Shifeng Pan, Jie Ding, Lei Xie. **AAAI**, 2025. [Demo](https://nzqian.github.io/Freestyler/).
 
 - [VITS-Based Singing Voice Conversion Leveraging Whisper and multi-scale F0 Modeling](https://arxiv.org/pdf/2310.02802.pdf), **Ziqian Ning**, Yuepeng Jiang, Zhichao Wang, Bin Zhang, Lei Xie. **ASRU**, 2023. [Demo](https://nzqian.github.io/SVCC2023-t23-ASLP)
 
 **Voice Conversion (VC)**
+
+- [Noise-Robust Expressive Zero-Shot Voice Conversion with Shortcut Models](). Under review.
 
 - [StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching](https://arxiv.org/pdf/2412.04724), Jixun Yao, Yuguang Yang, Yu Pan, **Ziqian Ning**, Jiaohao Ye, Hongbin Zhou, Lei Xie. **AAAI**, 2025.
 
@@ -73,6 +77,8 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 
 **Streaming Voice Conversion**
+
+- [DistilVC: Leveraging Synthetic Data for End-to-end Low Latency Streaming Voice Conversion](). Under review.
 
 - [DualVC 3: Leveraging Language Model Generated Pseudo Context for End-to-end Low Latency Streaming Voice Conversion](https://arxiv.org/pdf/2406.07846v1), **Ziqian Ning**, Shuai Wang, Pengcheng Zhu, Zhichao Wang, Jixun Yao, Lei Xie, Mengxiao Bi. **INTERSPEECH**, 2024. [Demo](https://dualvc.github.io/dualvc3/)
 
@@ -90,6 +96,8 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 
 **Text to Speech**
+- [FPO: Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech](), Jixun Yao, Yang Yuguang, Yuan Feng, Yu Pan, **Ziqian Ning**, Jianhao Ye, Hongbin Zhou, Lei Xie. Under review.
+
 - [Accent-VITS: accent transfer for end-to-end TTS](https://arxiv.org/pdf/2312.16850.pdf), Linhan Ma, Yongmao Zhang, Xinfa Zhu, Yi Lei, **Ziqian Ning**, Pengcheng Zhu, Lei Xie. **NCMMSC**, 2023. [Demo](https://anonymous-accentvits.github.io/AccentVITS/)
 
 

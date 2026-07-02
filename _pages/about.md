@@ -20,7 +20,9 @@ redirect_from:
 # About me
 <span class='anchor' id='about-me'></span>
 
-Ziqian Ning is a master student in the Audio, Speech and Language Processing Laboratory at Northwestern Polytechnical University ([ASLP@NWPU](http://www.npu-aslp.org/english)), Xi'an, China, supervised by Prof. [Lei Xie](http://www.nwpu-aslp.org/lxie/) . He is currently performing research at Netease Fuxi AI Lab. His research interests include voice conversion, text-to-speech and audio/music generation.
+Ziqian Ning is a research scientist at ByteDance Seed, Shanghai, China, working on music generation. He received his Master's degree from the Audio, Speech and Language Processing Laboratory at Northwestern Polytechnical University ([ASLP@NWPU](http://www.npu-aslp.org/english)), supervised by Prof. [Lei Xie](http://www.nwpu-aslp.org/lxie/).
+
+His research focuses on generative AI for music and speech, including full-length song generation, singing voice generation/conversion, low-latency voice conversion, and text-to-speech. His recent work includes the DiffRhythm series for efficient full-length song generation and the DualVC series for streaming voice conversion.
 
 
 <!-- # 📜 Research Area
@@ -44,9 +46,10 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 </table> -->
 
 
-# Internships
-<span class='anchor' id='internships'></span>
+# Experience
+<span class='anchor' id='experience'></span>
 
+- *2024.10 - Present*, Seed, ByteDance, Shanghai, China.
 - *2024.03 - 2024.09*, Azure Speech, Microsoft, China.
 - *2022.06 - 2024.03*, Fuxi AI Lab, Netease, China.
 - *2021.07 - 2021.09*, TEG, Tencent, China.
@@ -55,9 +58,13 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 # Publications
 <span class='anchor' id='publication'></span>
 
-**Singing Voice Generation**
+**Music and Singing Voice Generation**
 
-- [DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion](https://aslp-lab.github.io/DiffRhythm.github.io/), **Ziqian Ning**, Huakang Chen, Yuepeng Jiang, Chunbo Hao, Guobin Ma, Shuai Wang, Jixun Yao, Lei Xie. Under review.
+- [DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching](https://arxiv.org/abs/2510.22950), Yuepeng Jiang, Huakang Chen, **Ziqian Ning**, Jixun Yao, Zerui Han, Di Wu, Meng Meng, Jian Luan, Zhonghua Fu, Lei Xie. arXiv preprint, 2025.
+
+- [DiffRhythm+: Controllable and Flexible Full-Length Song Generation with Preference Optimization](https://arxiv.org/abs/2507.12890), Hui Chen, Yu-rou Jiang, Guobin Ma, Chuan-Ming Hao, Shuai Wang, Jixun Yao, **Ziqian Ning**, Meng Meng, Jian Luan, Zhonghua Fu, Lei Xie. arXiv preprint, 2025.
+
+- [DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion](https://arxiv.org/abs/2503.01183), **Ziqian Ning**, Huakang Chen, Yuepeng Jiang, Chunbo Hao, Guobin Ma, Shuai Wang, Jixun Yao, Lei Xie. arXiv preprint, 2025. [Project](https://nzqian.github.io/DiffRhythm/).
 
 - [Drop the beat! Freestyler for Accompaniment Conditioned Rapping Voice Generation](https://arxiv.org/pdf/2408.15474), **Ziqian Ning**, Shuai Wang, Yuepeng Jiang, Jixun Yao, Lei He, Shifeng Pan, Jie Ding, Lei Xie. **AAAI**, 2025. [Demo](https://nzqian.github.io/Freestyler/).
 
@@ -65,7 +72,9 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 **Voice Conversion (VC)**
 
-- [Noise-Robust Expressive Zero-Shot Voice Conversion with Shortcut Models](). Under review.
+- [MeanVC: Lightweight and Streaming Zero-Shot Voice Conversion via Mean Flows](https://arxiv.org/abs/2510.08392), Guobin Ma, Jixun Yao, **Ziqian Ning**, Yuepeng Jiang, Lingxin Xiong, Lei Xie, Pengcheng Zhu. arXiv preprint, 2025. [Demo](https://aslp-lab.github.io/MeanVC/)
+
+- [REF-VC: Robust, Expressive and Fast Zero-Shot Voice Conversion with Diffusion Transformers](https://arxiv.org/abs/2508.04996), Yuepeng Jiang, **Ziqian Ning**, Shuai Wang, Chengjia Wang, Mengxiao Bi, Pengcheng Zhu, Zhonghua Fu, Lei Xie. arXiv preprint, 2025.
 
 - [StableVC: Style Controllable Zero-Shot Voice Conversion with Conditional Flow Matching](https://arxiv.org/pdf/2412.04724), Jixun Yao, Yuguang Yang, Yu Pan, **Ziqian Ning**, Jiaohao Ye, Hongbin Zhou, Lei Xie. **AAAI**, 2025.
 
@@ -78,7 +87,7 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 **Streaming Voice Conversion**
 
-- [DistilVC: Leveraging Synthetic Data for End-to-end Low Latency Streaming Voice Conversion](). Under review.
+- [SynthVC: Leveraging Synthetic Data for End-to-End Low Latency Streaming Voice Conversion](https://arxiv.org/abs/2510.09245), Zhao Guo, **Ziqian Ning**, Guangsheng Ma, Lei Xie. arXiv preprint, 2025.
 
 - [DualVC 3: Leveraging Language Model Generated Pseudo Context for End-to-end Low Latency Streaming Voice Conversion](https://arxiv.org/pdf/2406.07846v1), **Ziqian Ning**, Shuai Wang, Pengcheng Zhu, Zhichao Wang, Jixun Yao, Lei Xie, Mengxiao Bi. **INTERSPEECH**, 2024. [Demo](https://dualvc.github.io/dualvc3/)
 
@@ -92,11 +101,11 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 
 - [Distinctive and Natural Speaker Anonymization via Singular Value Transformation-assisted Matrix](https://arxiv.org/abs/2405.10786), Jixun Yao, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Lei Xie. **TASLP**.
 
-- [MUSA: Multi-lingual Speaker Anonymization via Serial Disentanglement](https://arxiv.org/pdf/2407.11629), Jixun Yao, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Yuguang Yang, Yu Pan, Lei Xie. Submitted to **TASLP** (under review).
+- [MUSA: Multi-lingual Speaker Anonymization via Serial Disentanglement](https://arxiv.org/pdf/2407.11629), Jixun Yao, Qing Wang, Pengcheng Guo, **Ziqian Ning**, Yuguang Yang, Yu Pan, Lei Xie. **TASLP**, 2025.
 
 
 **Text to Speech**
-- [FPO: Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech](), Jixun Yao, Yang Yuguang, Yuan Feng, Yu Pan, **Ziqian Ning**, Jianhao Ye, Hongbin Zhou, Lei Xie. Under review.
+- [Fine-grained Preference Optimization Improves Zero-shot Text-to-Speech](https://arxiv.org/abs/2502.02950), Jixun Yao, Yuguang Yang, Yu Pan, Yuan Feng, **Ziqian Ning**, Jianhao Ye, Hongbin Zhou, Lei Xie. arXiv preprint, 2025.
 
 - [Accent-VITS: accent transfer for end-to-end TTS](https://arxiv.org/pdf/2312.16850.pdf), Linhan Ma, Yongmao Zhang, Xinfa Zhu, Yi Lei, **Ziqian Ning**, Pengcheng Zhu, Lei Xie. **NCMMSC**, 2023. [Demo](https://anonymous-accentvits.github.io/AccentVITS/)
 
@@ -104,6 +113,10 @@ Ziqian Ning is a master student in the Audio, Speech and Language Processing Lab
 # Project Experience
 <span class='anchor' id='project-experience'></span>
 
+- **DiffRhythm Series**
+  - Lead the development of efficient end-to-end full-length song generation systems that synthesize vocals and accompaniment from lyrics and style prompts, spanning latent diffusion, block flow matching, controllable style conditioning, and preference optimization.
+  - Released DiffRhythm as an open-source full-length song generation model. It quickly reached No. 1 on the Hugging Face Space trending chart after release, and the GitHub repository has received 2K+ stars. [Project](https://nzqian.github.io/DiffRhythm/)
+  - Extend the original system into DiffRhythm+ and DiffRhythm 2, improving controllability, preference alignment, lyric alignment, generation fidelity, and long-form coherence.
 - **Singing Voice Conversion Challenge 2023**
   - Propose a VITS-based singing voice conversion model that leverages Whisper bottleneck features as linguistic information and uses PBTC module extracts multi-scale F0 to better capture the pitch variation. The results of the official competition measurements demonstrate that our system achieves human-level naturalness, ranking first and second in Task 1 and Task 2, respectively. [Demo](https://nzqian.github.io/SVCC2023-t23-ASLP)
 - **Online Text-to-speech synthesis system**

@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-Personal Homepage: https://zqning.github.io/
+Personal Homepage: https://nzqian.github.io/
 
 <!--
 **jinyeying/jinyeying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

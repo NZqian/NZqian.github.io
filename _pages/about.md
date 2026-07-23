@@ -62,7 +62,7 @@ His research focuses on generative AI for music and speech, including full-lengt
 
 - [DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching](https://arxiv.org/abs/2510.22950), Yuepeng Jiang, Huakang Chen, **Ziqian Ning**, Jixun Yao, Zerui Han, Di Wu, Meng Meng, Jian Luan, Zhonghua Fu, Lei Xie. arXiv preprint, 2025.
 
-- [DiffRhythm+: Controllable and Flexible Full-Length Song Generation with Preference Optimization](https://arxiv.org/abs/2507.12890), Hui Chen, Yu-rou Jiang, Guobin Ma, Chuan-Ming Hao, Shuai Wang, Jixun Yao, **Ziqian Ning**, Meng Meng, Jian Luan, Zhonghua Fu, Lei Xie. arXiv preprint, 2025.
+- [DiffRhythm+: Controllable and Flexible Full-Length Song Generation with Preference Optimization](https://arxiv.org/abs/2507.12890), Huakang Chen, Yuepeng Jiang, Guobin Ma, Chunbo Hao, Shuai Wang, Jixun Yao, **Ziqian Ning**, Meng Meng, Jian Luan, Lei Xie. arXiv preprint, 2025.
 
 - [DiffRhythm: Blazingly Fast and Embarrassingly Simple End-to-End Full-Length Song Generation with Latent Diffusion](https://arxiv.org/abs/2503.01183), **Ziqian Ning**, Huakang Chen, Yuepeng Jiang, Chunbo Hao, Guobin Ma, Shuai Wang, Jixun Yao, Lei Xie. arXiv preprint, 2025. [Project](https://nzqian.github.io/DiffRhythm/).
 
@@ -87,7 +87,7 @@ His research focuses on generative AI for music and speech, including full-lengt
 
 **Streaming Voice Conversion**
 
-- [SynthVC: Leveraging Synthetic Data for End-to-End Low Latency Streaming Voice Conversion](https://arxiv.org/abs/2510.09245), Zhao Guo, **Ziqian Ning**, Guangsheng Ma, Lei Xie. arXiv preprint, 2025.
+- [SynthVC: Leveraging Synthetic Data for End-to-End Low Latency Streaming Voice Conversion](https://arxiv.org/abs/2510.09245), Zhao Guo, **Ziqian Ning**, Guobin Ma, Lei Xie. arXiv preprint, 2025.
 
 - [DualVC 3: Leveraging Language Model Generated Pseudo Context for End-to-end Low Latency Streaming Voice Conversion](https://arxiv.org/pdf/2406.07846v1), **Ziqian Ning**, Shuai Wang, Pengcheng Zhu, Zhichao Wang, Jixun Yao, Lei Xie, Mengxiao Bi. **INTERSPEECH**, 2024. [Demo](https://dualvc.github.io/dualvc3/)
 

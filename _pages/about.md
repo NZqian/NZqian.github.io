@@ -20,7 +20,7 @@ redirect_from:
 # About me
 <span class='anchor' id='about-me'></span>
 
-Ziqian Ning is a research scientist at ByteDance Seed, Shanghai, China, working on audio generation, specifically the audio that accompanies video. He received his Master's degree from the Audio, Speech and Language Processing Laboratory at Northwestern Polytechnical University ([ASLP@NWPU](http://www.npu-aslp.org/english)), supervised by Prof. [Lei Xie](http://www.nwpu-aslp.org/lxie/).
+Ziqian Ning is a research scientist at ByteDance Seed, Shanghai, China, working on audio generation. He received his Master's degree from the Audio, Speech and Language Processing Laboratory at Northwestern Polytechnical University ([ASLP@NWPU](http://www.npu-aslp.org/english)), supervised by Prof. [Lei Xie](http://www.nwpu-aslp.org/lxie/).
 
 His current research focuses on generative models for video-related audio. Previously, he worked on full-length song generation, singing voice generation and conversion, low-latency voice conversion, and text-to-speech, including the DiffRhythm series and the DualVC series.
 

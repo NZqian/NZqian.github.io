@@ -20,9 +20,9 @@ redirect_from:
 # About me
 <span class='anchor' id='about-me'></span>
 
-Ziqian Ning is a research scientist at ByteDance Seed, Shanghai, China, working on music generation. He received his Master's degree from the Audio, Speech and Language Processing Laboratory at Northwestern Polytechnical University ([ASLP@NWPU](http://www.npu-aslp.org/english)), supervised by Prof. [Lei Xie](http://www.nwpu-aslp.org/lxie/).
+Ziqian Ning is a research scientist at ByteDance Seed, Shanghai, China, working on audio generation, specifically the audio that accompanies video. He received his Master's degree from the Audio, Speech and Language Processing Laboratory at Northwestern Polytechnical University ([ASLP@NWPU](http://www.npu-aslp.org/english)), supervised by Prof. [Lei Xie](http://www.nwpu-aslp.org/lxie/).
 
-His research focuses on generative AI for music and speech, including full-length song generation, singing voice generation/conversion, low-latency voice conversion, and text-to-speech. His recent work includes the DiffRhythm series for efficient full-length song generation and the DualVC series for streaming voice conversion.
+His current research focuses on generative models for video-related audio. Previously, he worked on full-length song generation, singing voice generation and conversion, low-latency voice conversion, and text-to-speech, including the DiffRhythm series and the DualVC series.
 
 
 <!-- # 📜 Research Area
@@ -59,6 +59,8 @@ His research focuses on generative AI for music and speech, including full-lengt
 <span class='anchor' id='publication'></span>
 
 **Music and Singing Voice Generation**
+
+- [MSVAE: Rethinking Musical Semantics in Continuous Latent Spaces](https://arxiv.org/abs/2610.17187), Guobin Ma, Yuepeng Jiang, Dake Guo, Huakang Chen, Yuan Zhou, Lingxin Xiong, Wenkai Cheng, Jingbin Hu, Hanke Xie, Chunbo Hao, Wenhao Li, **Ziqian Ning**, Jixun Yao, Jian Zhao, Zhonglin Jiang, Yong Chen, Lei Xie, Pengcheng Zhu. arXiv preprint, 2026.
 
 - [DiffRhythm 2: Efficient and High Fidelity Song Generation via Block Flow Matching](https://arxiv.org/abs/2510.22950), Yuepeng Jiang, Huakang Chen, **Ziqian Ning**, Jixun Yao, Zerui Han, Di Wu, Meng Meng, Jian Luan, Zhonghua Fu, Lei Xie. arXiv preprint, 2025.
 
